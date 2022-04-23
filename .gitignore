@@ -1,0 +1,4 @@
+
+/prj/target/*
+/prj/.idea/*
+/prj/testapp.iml
